@@ -1,5 +1,4 @@
 # Minipet
-# MiniPet
 Android mini pet application
 
 1. use windows manager to display a floating electronic pet on the home screen
@@ -7,3 +6,4 @@ Android mini pet application
 3. alarm alert function is provided in this app
 4. if you have weChat, when you receive a weChat message, the app will capture the message and display the message with a message bubble 
    located next to the pets.
+5. running on average power 61mW
